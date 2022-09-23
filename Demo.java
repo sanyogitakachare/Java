@@ -1,4 +1,5 @@
 //sum of array
+This is for pull test
 
 package com.arraypractise;
 
